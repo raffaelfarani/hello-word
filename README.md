@@ -1,1 +1,1 @@
-Repositório criado com a funcionalidade de fazer o exercício da aula "Setup de ferramentas" da Cubos Academy.
+Repositorio criado com a finalidade de fazer o exercicio da aula Setup de ferramentas da Cubos Academy
