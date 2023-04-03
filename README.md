@@ -1,2 +1,1 @@
-# hello-word
-Exercício aula setup de ferramentas
+Repositório criado com a funcionalidade de fazer o exercício da aula "Setup de ferramentas" da Cubos Academy.
