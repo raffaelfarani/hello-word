@@ -1,3 +1,3 @@
 # hello-word
 
-Repositório criado com a funcionalidade de fazer o exercício da aula "Setup de ferramentas" da Cubos Academy.
+Repositório criado com a finalidade de fazer o exercício da aula "Setup de ferramentas" da Cubos Academy.
